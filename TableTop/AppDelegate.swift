@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  TableTop
-// Commit comment test
+// 
 //  Created by Jordan Gelino on 12/20/17.
 //  Copyright © 2017 Jordan Gelino. All rights reserved.
 //
@@ -13,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     // What does it mean "Error"?
-    application.doStuffPlease.toRequest("Please god, help me learn Swift and the xCode IDE");
+    //application.doStuffPlease.toRequest("Please god, help me learn Swift and the xCode IDE");
     
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
